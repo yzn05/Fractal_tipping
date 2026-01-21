@@ -1,0 +1,26 @@
+## Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_save
+
+## MacOS
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# macOS folder customizations
+Icon?
+._*
+
+# macOS metadata files (used on network volumes or external drives)
+.Spotlight-V100
+.Trashes
+.VolumeIcon.icns
+
+# macOS indexing files (Time Machine and others)
+.fseventsd
+.TemporaryItems
+.com.apple.timemachine.donotpresent
+
+## Ignore large dataset for the Henon map
+HenonMap/data_pub/rTipPara*
